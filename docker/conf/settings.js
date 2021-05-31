@@ -12,10 +12,10 @@ Anthony Verez averez@mozilla.com
 //configuration settings
 
 mozdef = {
-  rootURL: "http://localhost",
+  rootURL: "http://192.168.93.128",
   port: "3000",
-  rootAPI: "http://localhost:8081",
-  kibanaURL: "http://localhost:9090",
+  rootAPI: "http://192.168.93.128:8081",
+  kibanaURL: "http://192.168.93.128:9090",
   enableBlockIP: true,
   enableClientAccountCreation: true
 }
